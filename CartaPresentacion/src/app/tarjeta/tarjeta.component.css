@@ -1,0 +1,22 @@
+.card {
+    border: 1px solid #03442F;
+    padding: 15px;
+    border-radius: 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    box-shadow: 1px 6px 6px #ccc;
+    background-color: #25B587;
+    color: #FFF4E7;
+    margin-bottom: 3rem;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    margin: 2rem 0;
+    font-size: 1.4rem;
+    font-weight: bold;
+}
